@@ -8,7 +8,7 @@ public class carro {
         velocidad+=potencia;
     }
     void frenar (){
-        velocidad/=potencia;
+        velocidad/=potencia ;
 
     }
 }
